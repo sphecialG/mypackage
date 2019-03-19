@@ -1,5 +1,5 @@
 # mypackage
-This library was created as an example of how to publish your own Python package.
+This library was created as my Python package submission for the Analyse sprint - EDSA 2019.
 
 ## building this package locally
 `python setup.py sdist`
