@@ -1,5 +1,4 @@
 def bubble_sort(items):
-
     '''Return array of items, sorted in ascending order'''
     out = items.copy()
     for i in range(len(out)):
@@ -11,7 +10,6 @@ def bubble_sort(items):
     return items
 
 def merge_sort(items):
-
     '''Return array of items, sorted in ascending order'''
     if len(items)>1:
         mid = len(items)//2
@@ -46,7 +44,6 @@ def merge_sort(items):
     return items
 
 def quick_sort(items):
-
     '''Return array of items, sorted in ascending order'''
 
     if len(items) <= 1:
